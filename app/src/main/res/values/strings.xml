@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StateMachineTake2</string>
+    <string name="wrap">WRAP</string>
+    <string name="sub">SUB</string>
+    <string name="add_sub">ADD SUB</string>
+    <string name="submit">Submit</string>
+    <string name="input_sub_name_here">Input Sub Name Here</string>
+    <string name="create_a_new_sub">Create a new Sub</string>
+    <string name="choose_a_predefined_sub">Choose a predefined sub</string>
+</resources>
